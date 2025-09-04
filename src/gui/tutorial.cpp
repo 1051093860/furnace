@@ -839,6 +839,8 @@ void FurnaceGUI::drawTutorial() {
     ImGui::PopFont();
 
     ImGui::Text(_("welcome to Furnace, the biggest open-source chiptune tracker!"));
+    
+    ImGui::TextWrapped(_("Hello! Let's make some music together."));
 
     ImGui::Separator();
 

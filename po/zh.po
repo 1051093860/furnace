@@ -15959,6 +15959,9 @@ msgstr "欢迎!"
 msgid "welcome to Furnace, the biggest open-source chiptune tracker!"
 msgstr "欢迎来到Furnace, 全世界最大的开源Chiptune tracker!"
 
+msgid "Hello! Let's make some music together."
+msgstr "你好! 让我们一起制作音乐吧."
+
 #: src/gui/tutorial.cpp:845
 msgid "here are some tips to get you started:"
 msgstr "这里有一些小贴示来帮助您开始使用:"
